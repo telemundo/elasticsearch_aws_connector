@@ -1,0 +1,13 @@
+name: "Elasticsearch AWS Connector"
+description: "Facilitates integration between Elasticsearch Connector-module and Amazon Web Services using Signed AWS Requests."
+type: module
+# core: 8.x
+dependencies:
+  - elasticsearch_connector
+package: Elasticsearch
+
+# Information added by Drupal.org packaging script on 2017-06-13
+version: '8.x-5.x-dev'
+core: '8.x'
+project: 'elasticsearch_aws_connector'
+datestamp: 1497341945
